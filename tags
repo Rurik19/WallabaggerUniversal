@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+CacheType	.\build\chrome\js\background.js	/^var CacheType = function (enable) {$/;"	c
+CacheType	.\build\edge\js\background.js	/^var CacheType = function (enable) {$/;"	c
+CacheType	.\build\firefox\js\background.js	/^var CacheType = function (enable) {$/;"	c
+CacheType	.\publish\edge\Extension\js\background.js	/^var CacheType = function (enable) {$/;"	c
+CacheType	.\source\js\background.js	/^var CacheType = function (enable) {$/;"	c
+FetchApi	.\build\chrome\js\fetch-api.js	/^FetchApi.prototype = {$/;"	c
+FetchApi	.\build\chrome\js\fetch-api.js	/^var FetchApi = function () {};$/;"	f
+FetchApi	.\build\edge\js\fetch-api.js	/^FetchApi.prototype = {$/;"	c
+FetchApi	.\build\edge\js\fetch-api.js	/^var FetchApi = function () {};$/;"	f
+FetchApi	.\build\firefox\js\fetch-api.js	/^FetchApi.prototype = {$/;"	c
+FetchApi	.\build\firefox\js\fetch-api.js	/^var FetchApi = function () {};$/;"	f
+FetchApi	.\publish\edge\Extension\js\fetch-api.js	/^FetchApi.prototype = {$/;"	c
+FetchApi	.\publish\edge\Extension\js\fetch-api.js	/^var FetchApi = function () {};$/;"	f
+FetchApi	.\source\js\fetch-api.js	/^FetchApi.prototype = {$/;"	c
+FetchApi	.\source\js\fetch-api.js	/^var FetchApi = function () {};$/;"	f
+OptionsController	.\build\chrome\js\options.js	/^var OptionsController = function () {$/;"	c
+OptionsController	.\build\edge\js\options.js	/^var OptionsController = function () {$/;"	c
+OptionsController	.\build\firefox\js\options.js	/^var OptionsController = function () {$/;"	c
+OptionsController	.\publish\edge\Extension\js\options.js	/^var OptionsController = function () {$/;"	c
+OptionsController	.\source\js\options.js	/^var OptionsController = function () {$/;"	c
+PopupController	.\build\chrome\js\popup.js	/^var PopupController = function () {$/;"	c
+PopupController	.\build\edge\js\popup.js	/^var PopupController = function () {$/;"	c
+PopupController	.\build\firefox\js\popup.js	/^var PopupController = function () {$/;"	c
+PopupController	.\publish\edge\Extension\js\popup.js	/^var PopupController = function () {$/;"	c
+PopupController	.\source\js\popup.js	/^var PopupController = function () {$/;"	c
+WallabagApi	.\build\chrome\js\wallabag-api.js	/^WallabagApi.prototype = {$/;"	c
+WallabagApi	.\build\chrome\js\wallabag-api.js	/^var WallabagApi = function () { };$/;"	f
+WallabagApi	.\build\edge\js\wallabag-api.js	/^WallabagApi.prototype = {$/;"	c
+WallabagApi	.\build\edge\js\wallabag-api.js	/^var WallabagApi = function () { };$/;"	f
+WallabagApi	.\build\firefox\js\wallabag-api.js	/^WallabagApi.prototype = {$/;"	c
+WallabagApi	.\build\firefox\js\wallabag-api.js	/^var WallabagApi = function () { };$/;"	f
+WallabagApi	.\source\js\wallabag-api.js	/^WallabagApi.prototype = {$/;"	c
+WallabagApi	.\source\js\wallabag-api.js	/^var WallabagApi = function () { };$/;"	f
+addExistCheckListeners	.\build\chrome\js\background.js	/^function addExistCheckListeners (enable) {$/;"	f
+addExistCheckListeners	.\build\edge\js\background.js	/^function addExistCheckListeners (enable) {$/;"	f
+addExistCheckListeners	.\build\firefox\js\background.js	/^function addExistCheckListeners (enable) {$/;"	f
+addExistCheckListeners	.\publish\edge\Extension\js\background.js	/^function addExistCheckListeners (enable) {$/;"	f
+addExistCheckListeners	.\source\js\background.js	/^function addExistCheckListeners (enable) {$/;"	f
+addListeners	.\build\chrome\js\background.js	/^function addListeners () {$/;"	f
+addListeners	.\build\edge\js\background.js	/^function addListeners () {$/;"	f
+addListeners	.\build\firefox\js\background.js	/^function addListeners () {$/;"	f
+addListeners	.\publish\edge\Extension\js\background.js	/^function addListeners () {$/;"	f
+addListeners	.\source\js\background.js	/^function addListeners () {$/;"	f
+applyDirtyCacheLight	.\build\chrome\js\background.js	/^function applyDirtyCacheLight (key, data) {$/;"	f
+applyDirtyCacheLight	.\build\edge\js\background.js	/^function applyDirtyCacheLight (key, data) {$/;"	f
+applyDirtyCacheLight	.\build\firefox\js\background.js	/^function applyDirtyCacheLight (key, data) {$/;"	f
+applyDirtyCacheLight	.\source\js\background.js	/^function applyDirtyCacheLight (key, data) {$/;"	f
+applyDirtyCacheReal	.\build\chrome\js\background.js	/^function applyDirtyCacheReal (key, data) {$/;"	f
+applyDirtyCacheReal	.\build\edge\js\background.js	/^function applyDirtyCacheReal (key, data) {$/;"	f
+applyDirtyCacheReal	.\build\firefox\js\background.js	/^function applyDirtyCacheReal (key, data) {$/;"	f
+applyDirtyCacheReal	.\source\js\background.js	/^function applyDirtyCacheReal (key, data) {$/;"	f
+cutArticle	.\build\chrome\js\background.js	/^function cutArticle (data) {$/;"	f
+cutArticle	.\build\edge\js\background.js	/^function cutArticle (data) {$/;"	f
+cutArticle	.\build\firefox\js\background.js	/^function cutArticle (data) {$/;"	f
+cutArticle	.\publish\edge\Extension\js\background.js	/^function cutArticle (data) {$/;"	f
+cutArticle	.\source\js\background.js	/^function cutArticle (data) {$/;"	f
+dirtyCacheSet	.\build\chrome\js\background.js	/^function dirtyCacheSet (key, obj) {$/;"	f
+dirtyCacheSet	.\build\edge\js\background.js	/^function dirtyCacheSet (key, obj) {$/;"	f
+dirtyCacheSet	.\build\firefox\js\background.js	/^function dirtyCacheSet (key, obj) {$/;"	f
+dirtyCacheSet	.\source\js\background.js	/^function dirtyCacheSet (key, obj) {$/;"	f
+fileReader.onload	.\build\chrome\js\options.js	/^            fileReader.onload = function (fileLoadedEvent) {$/;"	c
+fileReader.onload	.\build\edge\js\options.js	/^            fileReader.onload = function (fileLoadedEvent) {$/;"	c
+fileReader.onload	.\build\firefox\js\options.js	/^            fileReader.onload = function (fileLoadedEvent) {$/;"	c
+fileReader.onload	.\publish\edge\Extension\js\options.js	/^            fileReader.onload = function (fileLoadedEvent) {$/;"	c
+fileReader.onload	.\source\js\options.js	/^            fileReader.onload = function (fileLoadedEvent) {$/;"	c
+moveToDirtyCache	.\build\chrome\js\background.js	/^function moveToDirtyCache (url) {$/;"	f
+moveToDirtyCache	.\build\edge\js\background.js	/^function moveToDirtyCache (url) {$/;"	f
+moveToDirtyCache	.\build\firefox\js\background.js	/^function moveToDirtyCache (url) {$/;"	f
+moveToDirtyCache	.\source\js\background.js	/^function moveToDirtyCache (url) {$/;"	f
+onCommandsCommand	.\build\chrome\js\command.js	/^function onCommandsCommand (command) {$/;"	f
+onCommandsCommand	.\build\edge\js\command.js	/^function onCommandsCommand (command) {$/;"	f
+onCommandsCommand	.\build\firefox\js\command.js	/^function onCommandsCommand (command) {$/;"	f
+onCommandsCommand	.\publish\edge\Extension\js\command.js	/^function onCommandsCommand (command) {$/;"	f
+onCommandsCommand	.\source\js\command.js	/^function onCommandsCommand (command) {$/;"	f
+onContextMenusClicked	.\build\chrome\js\menus.edge.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\build\chrome\js\menus.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\build\edge\js\menus.edge.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\build\edge\js\menus.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\build\firefox\js\menus.edge.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\build\firefox\js\menus.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\publish\edge\Extension\js\menus.edge.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\publish\edge\Extension\js\menus.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\source\js\menus.edge.js	/^function onContextMenusClicked (info) {$/;"	f
+onContextMenusClicked	.\source\js\menus.js	/^function onContextMenusClicked (info) {$/;"	f
+onPortMessage	.\build\chrome\js\background.js	/^function onPortMessage (msg) {$/;"	f
+onPortMessage	.\build\edge\js\background.js	/^function onPortMessage (msg) {$/;"	f
+onPortMessage	.\build\firefox\js\background.js	/^function onPortMessage (msg) {$/;"	f
+onPortMessage	.\publish\edge\Extension\js\background.js	/^function onPortMessage (msg) {$/;"	f
+onPortMessage	.\source\js\background.js	/^function onPortMessage (msg) {$/;"	f
+onRuntimeConnect	.\build\chrome\js\background.js	/^function onRuntimeConnect (port) {$/;"	f
+onRuntimeConnect	.\build\edge\js\background.js	/^function onRuntimeConnect (port) {$/;"	f
+onRuntimeConnect	.\build\firefox\js\background.js	/^function onRuntimeConnect (port) {$/;"	f
+onRuntimeConnect	.\publish\edge\Extension\js\background.js	/^function onRuntimeConnect (port) {$/;"	f
+onRuntimeConnect	.\source\js\background.js	/^function onRuntimeConnect (port) {$/;"	f
+onTabActivatedListener	.\build\chrome\js\background.js	/^function onTabActivatedListener (activeInfo) {$/;"	f
+onTabActivatedListener	.\build\edge\js\background.js	/^function onTabActivatedListener (activeInfo) {$/;"	f
+onTabActivatedListener	.\build\firefox\js\background.js	/^function onTabActivatedListener (activeInfo) {$/;"	f
+onTabActivatedListener	.\publish\edge\Extension\js\background.js	/^function onTabActivatedListener (activeInfo) {$/;"	f
+onTabActivatedListener	.\source\js\background.js	/^function onTabActivatedListener (activeInfo) {$/;"	f
+onTabCreatedListener	.\build\chrome\js\background.js	/^function onTabCreatedListener (tab) {$/;"	f
+onTabCreatedListener	.\build\edge\js\background.js	/^function onTabCreatedListener (tab) {$/;"	f
+onTabCreatedListener	.\build\firefox\js\background.js	/^function onTabCreatedListener (tab) {$/;"	f
+onTabCreatedListener	.\publish\edge\Extension\js\background.js	/^function onTabCreatedListener (tab) {$/;"	f
+onTabCreatedListener	.\source\js\background.js	/^function onTabCreatedListener (tab) {$/;"	f
+onTabUpdatedListener	.\build\chrome\js\background.js	/^function onTabUpdatedListener (tabId, changeInfo, tab) {$/;"	f
+onTabUpdatedListener	.\build\edge\js\background.js	/^function onTabUpdatedListener (tabId, changeInfo, tab) {$/;"	f
+onTabUpdatedListener	.\build\firefox\js\background.js	/^function onTabUpdatedListener (tabId, changeInfo, tab) {$/;"	f
+onTabUpdatedListener	.\publish\edge\Extension\js\background.js	/^function onTabUpdatedListener (tabId, changeInfo, tab) {$/;"	f
+onTabUpdatedListener	.\source\js\background.js	/^function onTabUpdatedListener (tabId, changeInfo, tab) {$/;"	f
+postIfConnected	.\build\chrome\js\background.js	/^function postIfConnected (obj) {$/;"	f
+postIfConnected	.\build\edge\js\background.js	/^function postIfConnected (obj) {$/;"	f
+postIfConnected	.\build\firefox\js\background.js	/^function postIfConnected (obj) {$/;"	f
+postIfConnected	.\publish\edge\Extension\js\background.js	/^function postIfConnected (obj) {$/;"	f
+postIfConnected	.\source\js\background.js	/^function postIfConnected (obj) {$/;"	f
+savePageToWallabag	.\build\chrome\js\background.js	/^function savePageToWallabag (url, resetIcon) {$/;"	f
+savePageToWallabag	.\build\edge\js\background.js	/^function savePageToWallabag (url, resetIcon) {$/;"	f
+savePageToWallabag	.\build\firefox\js\background.js	/^function savePageToWallabag (url, resetIcon) {$/;"	f
+savePageToWallabag	.\publish\edge\Extension\js\background.js	/^function savePageToWallabag (url, resetIcon) {$/;"	f
+savePageToWallabag	.\source\js\background.js	/^function savePageToWallabag (url, resetIcon) {$/;"	f

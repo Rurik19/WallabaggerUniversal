@@ -1,0 +1,38 @@
+{
+    "manifest_version": 2,
+    "name": "wallabagger",
+    "version": "1.5",
+    "author": "Yuriy Evdokimov",
+    "description": "Universal extension for wallabag",
+    "icons": {
+        "16": "images/wallabagger-16ou.png",
+        "48": "images/wallabagger-48ou.png"
+    },
+
+    "browser_action": {
+        "default_icon": {
+        "20":  "images/wallabagger-20ou.png",
+        "40":  "images/wallabagger-40ou.png"
+        },
+        "default_title": "This is popup title",
+        "default_popup": "popup.html"
+    },
+
+   "options_page": "options.html",
+
+    "background": {
+        "persistent": true,
+        "scripts": [ 
+            "js/fetch-api.js", 
+            "js/wallabag-api.js", 
+            "js/background.js", 
+            "js/menus.edge.js" 
+        ]
+    },
+    "permissions": [
+        "*://*/",
+        "tabs",
+        "storage",
+        "contextMenus"
+    ]
+}

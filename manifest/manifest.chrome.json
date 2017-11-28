@@ -1,0 +1,61 @@
+{
+    "manifest_version": 2,
+    "name": "wallabagger",
+    "version": "1.4.0.1",
+    "author": "Yuriy Evdokimov",
+    "description": "Universal extension for wallabag",
+    "icons": {
+        "16":  "images/wallabagger-16.png",
+        "48":  "images/wallabagger-48.png",
+        "128": "images/wallabagger-128.png"
+    },
+
+    "browser_action": {
+        "default_icon": {
+        "16":  "images/wallabagger-16.png",
+        "24":  "images/wallabagger-24.png",
+        "32":  "images/wallabagger-32.png"
+        },
+        "default_title": "This is popup title",
+        "default_popup": "popup.html"
+    },
+
+   "options_ui": {
+       "page": "options.html"
+    },
+
+    "background": {
+        "persistent": true,
+        "scripts": [ 
+            "js/fetch-api.js", 
+            "js/wallabag-api.js", 
+            "js/background.js", 
+            "js/command.js", 
+            "js/menus.js" 
+        ]
+    },
+    "permissions": [
+        "*://*/",
+        "tabs",
+        "storage",
+        "contextMenus"
+    ],
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+              "default": "Alt+W",
+              "windows": "Alt+W",
+              "mac": "Alt+W"
+            }
+        },
+        "wallabag-it": {
+            "suggested_key": {
+              "default": "Alt+Shift+W",
+              "windows": "Alt+Shift+W",
+              "mac": "Alt+Shift+W"
+            },
+            "description": "Save to wallabag in background"
+        }
+    }
+
+}

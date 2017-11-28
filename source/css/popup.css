@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Roboto';
+    src:
+        url('../fonts/Roboto-Regular.woff2') format('woff2'),
+        url('../fonts/Roboto-Regular.woff') format('woff'),
+        url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    width: 450px;
+    padding: 3px;
+}
+#card-title{
+    cursor: pointer;
+    color: #039be5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+#entry-url {
+    text-decoration: none;
+}
+
+.action-button {
+    margin-left: 3px;
+    padding: 3px;
+    background-color: transparent;
+    border: none;
+}
+
+.action-button:hover,
+.action-button:active,
+.action-button:focus {
+    color: #039be5;
+}
+
+span.icon {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.chip-sm {
+   margin-left: 5px;
+}
+
+#card-image {
+    max-width: 444px;
+    max-height: 250px;
+    overflow: hidden;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.form-autocomplete-item {
+    display: inline;
+}
+.chip-selected {
+   border: 1px solid black;
+}
